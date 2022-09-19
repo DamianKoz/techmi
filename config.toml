@@ -1,0 +1,36 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Techmi'
+theme = "hugo-coder"
+[params]
+  author = "Damian Kozakiewicz"
+  info = "Passionate Pythonista, Gopher and Full Stack Dev."
+  description = "A blog to document my journey through the world of computer science"
+  keywords = "blog,developer,personal"
+  avatarurl = "profile_pic.jpg"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/damiankoz/"
+  
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
