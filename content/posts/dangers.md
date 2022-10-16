@@ -15,7 +15,7 @@ series = []
 
 We live in a phenomenal time. To be honest, we might be living in the short time frame, where humanity left the biggest natural threads behind it, and shortly before it created new potentially disastrous new technologies.
 
-In the past nearly every person 
+In the past nearly every person in the future
 
 - Systems can evolve to complex entities, which are hard to comprehend and fragile due to this.
 - Pushing for potentialy humanity destroying technologies like AGI or computer-brain-interfaces, while not having solved even basic problems, doens't seem very rational.
