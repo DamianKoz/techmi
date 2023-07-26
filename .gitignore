@@ -1,0 +1,8 @@
+.idea
+./themes/*
+./themes
+*/themes/*
+./themes/hugo-coder/*
+exampleSite/public/
+exampleSite/resources/
+*.lock
