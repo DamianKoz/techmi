@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techmi</title>
-    <link>http://localhost:1313/</link>
+    <link>https://techmi.netlify.app/</link>
     <description>Recent content on Techmi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 18:36:35 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dangers of technology</title>
-      <link>http://localhost:1313/posts/dangers/</link>
-      <pubDate>Sun, 16 Oct 2022 18:36:35 +0200</pubDate>
-      <guid>http://localhost:1313/posts/dangers/</guid>
-      <description>&lt;h1 id=&#34;a-post-about-all-the-things-that-could-go-wrong-in-the-future&#34;&gt;&#xA;  A Post about all the things that could go wrong in the future&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#a-post-about-all-the-things-that-could-go-wrong-in-the-future&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;We live in a phenomenal time. To be honest, we might be living in the short time frame, where humanity left the biggest natural threads behind it, and shortly before it created new potentially disastrous new technologies.&lt;/p&gt;&#xA;&lt;p&gt;In the past nearly every person in the future&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Systems can evolve to complex entities, which are hard to comprehend and fragile due to this.&lt;/li&gt;&#xA;&lt;li&gt;Pushing for potentialy humanity destroying technologies like AGI or computer-brain-interfaces, while not having solved even basic problems, doens&amp;rsquo;t seem very rational.&lt;/li&gt;&#xA;&lt;li&gt;Past:&lt;/li&gt;&#xA;&lt;li&gt;How safe is it, to keep building things on a shacky fundament?&lt;/li&gt;&#xA;&lt;li&gt;Go for low hanging fruits (Autonomous driving)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 24 Sep 2022 17:34:24 +0200</lastBuildDate>
+    <atom:link href="https://techmi.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overengineering</title>
-      <link>http://localhost:1313/posts/overengineering/</link>
+      <link>https://techmi.netlify.app/posts/overengineering/</link>
       <pubDate>Sat, 24 Sep 2022 17:34:24 +0200</pubDate>
-      <guid>http://localhost:1313/posts/overengineering/</guid>
+      <guid>https://techmi.netlify.app/posts/overengineering/</guid>
       <description>&lt;h1 id=&#34;overengineering&#34;&gt;&#xA;  Overengineering&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#overengineering&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I have been interested in fullstack development for a long time.&#xA;There is something very special about being able to build a complete application with a good looking frontend, a fast performance and implementing all the features that you wish an application would have.&#xA;The problem is, that I found it very hard to get into fullstack development, due to the fact, that many ressources try to teach you web development for Fortune 500 companies, which need their software to handle millions of users and requests, with no downtime at all and the ability to scale endlessly.&lt;br&gt;&#xA;Bla Bla&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://techmi.netlify.app/about/</link>
       <pubDate>Mon, 19 Sep 2022 14:19:43 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://techmi.netlify.app/about/</guid>
       <description>&lt;h1 id=&#34;hi-welcome-to-techmi&#34;&gt;&#xA;  Hi, welcome to Techmi!&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hi-welcome-to-techmi&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is a blog to document my journey through the fascinating world of computer science.&lt;/p&gt;&#xA;&lt;p&gt;In the beginning, topics will be mostly about WebDevelopment.&lt;/p&gt;</description>
     </item>
   </channel>

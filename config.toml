@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://techmi.netlify.app/'
 languageCode = 'en-us'
 title = 'Techmi'
 theme = "hugo-coder"
@@ -12,7 +12,7 @@ theme = "hugo-coder"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2022
 
   enableTwemoji = true
 

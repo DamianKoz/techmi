@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2022-10-16T18:36:35+02:00
 title = "Dangers of technology"
 description = ""
@@ -19,6 +19,6 @@ In the past nearly every person in the future
 
 - Systems can evolve to complex entities, which are hard to comprehend and fragile due to this.
 - Pushing for potentialy humanity destroying technologies like AGI or computer-brain-interfaces, while not having solved even basic problems, doens't seem very rational.
-- Past: 
+- Past:
 - How safe is it, to keep building things on a shacky fundament?
 - Go for low hanging fruits (Autonomous driving)
